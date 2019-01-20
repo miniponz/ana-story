@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    font-family: Impact, sans-serif;
+    color: grey;
+    text-align: center;
+}
+
+.chapter{
+    padding: 15px;
+    border-style: solid;
+    border-color: rgb(2, 156, 156);
+    margin: 5px;
+}
