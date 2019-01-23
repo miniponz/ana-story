@@ -1,7 +1,7 @@
 //make function that prints each story part (four times)
 
 function printPartOne(){
-    var storyPartOne = 'Ana was a normal dog until she mets an evil dude. The evil dude taught her that humans are bad! Then Ana was like "Dude! evil dude, humans are bad! We must fight them!" Then evil dude was like "yeah... Ana Dogg!" Then, the evil dude was like "let\'s go Dogg (no pun intended)!'
+    var storyPartOne = 'Ana was a normal dog until she met an evil dude. The evil dude taught her that humans are bad! Then, Ana was like "Dude! Evil dude, humans are bad! We must fight them!" Then the evil dude was like "yeah... Ana Dogg!" Then, the evil dude was like "let\'s go Dogg (no pun intended)!'
 
     var showStoryPartOne = document.getElementById('part-one');
 
@@ -24,7 +24,7 @@ function printPartThree(){
 }
 function printPartFour(){
     var storyPartFour = 'When Riley saw Ana was using the lick machine on all of his town, he decided to attack doge. It was a very dumb move, but whatever. Riley decided to grab Ana\'s tongue and flail it around like Magikarp. He tried his plan, but when he got there, he realized how dumb it was. So, he decided to give doge a bath instead. He called the super-soak company and told them there was a long dog with short legs and a tongue intensifier trying to destroy his town! The super-soak company decided to help. When they arrived, they sprayed Ana with soap, water, and shampoo. She ran away because being washed was her secret weakness\! The end....or maybe not?'
-
+    
     var showStoryPartFour = document.getElementById('part-four');
 
     showStoryPartFour.textContent = storyPartFour;
